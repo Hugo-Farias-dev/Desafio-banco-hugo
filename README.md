@@ -4,4 +4,4 @@
 
 
 
-Nesse projeto foi desenvolvido o código referente a um banco digital. Com isto, foram utilizados conceitos de abstração, encapsulamento, herança e polimorfismo. 
+Nesse projeto foi desenvolvido o código referente a um banco digital. Deste modo, foram utilizados conceitos de abstração, encapsulamento, herança e polimorfismo. 
